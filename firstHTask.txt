@@ -1,0 +1,6 @@
+Home work #1.
+
+1.Open chrrome;
+2.Navigate to techtorial academy;
+3.Login;
+
